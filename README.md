@@ -17,7 +17,7 @@ Graphs a line using the function - ```f(x) = mx + b```
 ![linear function](images/linered.png)
 
 ###  2 - Quadratic
-Graphs a parabola/quadratic using the function - ```f(x) = a(x-h)² + k```
+Graphs a parabola/quadratic using the function - ```f(x) = a(x-h)ͥ + k```
 
 ![quadratic function](images/quadred.png)
 ###  3 - Sine Wave
