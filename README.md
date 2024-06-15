@@ -25,7 +25,7 @@ The color of any graphed function can be changed
 The currently available colors are: Red, Magenta, and Blue
 
 ## Installation
-
+Download and extract [Graphene.zip](Graphene/Graphene.zip)
 ### Make
 Inside the program directory, run ```Make main``` to compile and ```./main``` to run
 >Requires GNU/Make
