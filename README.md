@@ -9,6 +9,8 @@
 
 Upon running a list of available functions will be shown:
 
+![menu](images/menu.png)
+
 ### 1 - Linear
 Graphs a line using the function - ```f(x) = mx + b```
 
@@ -26,23 +28,26 @@ Graphs a sine wave using the function - ```f(x) = a⋅sin(b(x-c)) + d```
 Graphs a tangent using the function - ```f(x) = a⋅tan(bx)```
 
 ![tangent function](images/tanred.png)
-## Configuration
+<details>
+<Summary>Configuration</Summary>
 
-The color of any graphed function can be changed
 
-The currently available colors are:
 
-Red
+### The color of any graphed function can be changed to any of the following colors:
+
+### Red
 
 ![Red](images/linered.png)
 
-Magenta
+### Magenta
 
 ![Magenta](images/linemagenta.png)
 
-Blue
+### Blue
 
 ![Blue](images/lineblue.png)
+</details>
+
 ## Installation
 Download and extract [Graphene.zip](Graphene.zip)
 ### GCC
