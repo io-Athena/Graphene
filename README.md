@@ -26,11 +26,8 @@ The currently available colors are: Red, Magenta, and Blue
 
 ## Installation
 Download and extract [Graphene.zip](Graphene.zip)
-### Make
-Inside the program directory, run ```Make main``` to compile and ```./main``` to run
->Requires GNU/Make
 ### GCC
-Run ```gcc -o main main.c -lm``` to compile and ```./main``` to run
+Run ```gcc -o graphene graphene.c -lm``` to compile and ```./graphene``` to run
 >Requires GCC
 ### PATH
-the project directory can be added to ```PATH``` to make ```main``` exectuable globally
+the project directory can be added to ```PATH``` to make ```graphene``` exectuable globally
